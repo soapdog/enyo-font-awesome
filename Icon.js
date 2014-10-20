@@ -9,7 +9,7 @@ enyo.kind({
         border: false,
         pull: false,
         rotation: "normal",
-        icon: "fa-camera-retro"
+        icon: ""
     },
     create: function(){
         this.inherited(arguments);
