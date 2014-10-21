@@ -14,6 +14,7 @@ enyo.kind({
     components: [
         {
             name: "icon",
+            style: "padding: 3px",
             kind: "fa.Icon",
             icon: this.icon,
             spin: this.spin,
