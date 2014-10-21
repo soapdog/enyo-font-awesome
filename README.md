@@ -23,6 +23,6 @@ Example of usage:
 
 The result is:
 
-![Imgur](http://i.imgur.com/KhiEjBF.gifv)
+http://i.imgur.com/KhiEjBF.gifv
 
 The **fa.Icon** has almos the same properties as the **fa.IconButton** except it has no label or tap event.
